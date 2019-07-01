@@ -1,5 +1,5 @@
-token="InsertYourTokenHere"
-bprefix="InsertYourPrefixHere"
+token="NTgzODQ1NDU3MDU1MTg2OTQ2.XQ44_w.ZdsWgM8pK2qCoRChuQkG3ySjnEg"
+bprefix="•"
 
 #Codes For Icons (ex. <:settings:592900202445144076>)
 scheck=":white_check_mark:" 
